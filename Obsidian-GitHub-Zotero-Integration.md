@@ -26,8 +26,8 @@ Journal Article Setup
 These are set up similar to Zotero for Google Docs: 
 ![[Screenshot 2023-09-06 at 1.16.23 PM.png]]
 ## 5. Pull Github
-https://github.com/wmobley/Annotated_Articles.git
-Put it as a sub directory to your main Obsidian. 
+https://github.com/wmobley/Tutorials
+Put it as a sub-directory to your main Obsidian. 
 
 ## 6. Template
 
